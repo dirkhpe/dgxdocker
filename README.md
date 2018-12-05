@@ -8,6 +8,8 @@ For information on how to use this repository, see [Python](https://docs.microso
 | Build image and push to Docker Hub (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/python-django/python-dockerhub)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=14) |
 | Build image and push to Azure Container Registry (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/python-django/python-acr)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=15) |
 
+[![Build Status](https://dev.azure.com/dirkvermeylen/QuickProc/_apis/build/status/dirkhpe.dgxdocker)](https://dev.azure.com/dirkvermeylen/QuickProc/_build/latest?definitionId=2)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
